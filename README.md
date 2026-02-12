@@ -45,3 +45,8 @@ Open project in Eclipse or any Java IDE.
 Compile all classes.
 
 Run Main.java.
+
+Output:
+
+<img width="801" height="358" alt="image" src="https://github.com/user-attachments/assets/ca0b3a21-9915-4057-873e-12e11bf0f782" />
+
